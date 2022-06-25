@@ -51,9 +51,9 @@ Considere o exemplo abaixo. Aqui, temos dois elementos de botão que, pelo menos
   
 ![image](https://user-images.githubusercontent.com/88754556/175757659-7f8fea69-37ef-4a78-b3af-ce1df17d6bdd.png)
 
-  Mas, se você revelar o HTML subjacente, verá que o primeiro elemento é um elemento " <button> " , enquanto o segundo é um elemento " <div> "  . A primeira é semântica, enquanto a segunda não é.
+  Mas, se você revelar o HTML subjacente, verá que o primeiro elemento é um elemento  ``` <button>  ``` , enquanto o segundo é um elemento  ``` <div>  ```  . A primeira é semântica, enquanto a segunda não é.
 
-Outro exemplo: Abaixo, temos duas listas. No entanto, a primeira utiliza a tag semântica <ol> (lista ordenada), enquanto a segunda é formatada com tags genéricas:
+Outro exemplo: Abaixo, temos duas listas. No entanto, a primeira utiliza a tag semântica  ``` <ol>  ``` (lista ordenada), enquanto a segunda é formatada com tags genéricas:
   
  ![image](https://user-images.githubusercontent.com/88754556/175757756-1cb737fe-207c-4699-b47e-be452fba7efc.png)
 
@@ -65,7 +65,7 @@ Em segundo lugar, os elementos semânticos vêm com sua própria acessibilidade 
 
 Por fim, muitos leitores de tela ajudam os usuários a navegar em uma página, permitindo que eles pulem entre as tags com o mesmo nome (ou seja, H2s) ou agreguem todas as mesmas tags para uma maneira mais fácil de verificar o conteúdo de uma página. Portanto, está claro por que usar principalmente tags <div> negaria esse recurso.
 
-Para resumir, evite criar elementos de interação específicos com a tag genérica <div> e seu irmão embutido, <span> , se possível. Embora essas tags geralmente sejam úteis para layouts, sempre escolha o elemento HTML semântico nativo quando possível para melhor acessibilidade.
+Para resumir, evite criar elementos de interação específicos com a tag genérica <div> e seu irmão embutido,  ``` <span>  ``` , se possível. Embora essas tags geralmente sejam úteis para layouts, sempre escolha o elemento HTML semântico nativo quando possível para melhor acessibilidade.
   
   - Texto alternativo da imagem : O objetivo do texto alternativo era adicionar contexto para aqueles que usam leitores de tela e para aqueles que não podem ver suas imagens por qualquer motivo (por exemplo, baixa visão, uma conexão ruim ou um link de origem quebrado). Quando um leitor de tela encontra um texto alternativo, ele simplesmente o lê para o usuário. Os navegadores também podem ser configurados para exibir texto alternativo na tela no lugar da imagem.
  
