@@ -36,20 +36,21 @@ Este site tem varios problemas de acessibilidade.
 
 Agora vamos agitar nossa varinha de acessibilidade e propor mudanças para mitigar estes problemas:
 
-![image](https://user-images.githubusercontent.com/88754556/175758798-14592c93-8670-492b-9f76-4f127d07931f.png)
+![image](https://user-images.githubusercontent.com/88754556/175759821-91f014dc-62fd-4a46-9380-d26b3e18a4d6.png)
+![image](https://user-images.githubusercontent.com/88754556/175759831-b5c7725a-377a-45fc-a0c1-34aae2542117.png)
 
 Acrescentar barra de atalhos com os ícones de :Botões , especificando devidos atalhos, aumento e diminuição de letra e contraste da página.
 Ao clicar em contraste, a parte menu do site tem variação de cor de preto para branco, além disso pode-se também optar por aumento das letras dos ícones, como demonstrado na imagem abaixo:  
 
-![image](https://user-images.githubusercontent.com/88754556/175758853-1399fb37-c9fc-4753-9ca5-ad8f7e4120b4.png)
+![image](https://user-images.githubusercontent.com/88754556/175759848-46e03d8d-4d75-448b-9ee3-ac96ef7fed3f.png)
 
 Foi acrescentado uma barra de rolagem em tons mais nítidos:
 
-![image](https://user-images.githubusercontent.com/88754556/175758888-74de1b50-a1cc-4fc8-8753-dd61485978a1.png)
+![image](https://user-images.githubusercontent.com/88754556/175759882-d7db2c09-1bac-4b40-a17b-59cb0e8a30c8.png)
 
 E tirado a transição de fundo para uma imagem estática:
 
-![image](https://user-images.githubusercontent.com/88754556/175758906-32be0999-ae31-4c9b-aab5-c0b3c64f46ef.png)
+![image](https://user-images.githubusercontent.com/88754556/175759892-67aeb202-b2fc-4a1d-9d47-332d452a85c1.png)
 
 Qual você prefere usar? Se você disse "a versão acessível", está no caminho certo para entender a premissa principal deste guia. Muitas vezes, algo que é um bloqueador completo para alguns usuários também é um ponto problemático para muitos outros, portanto, ao corrigir o problema de acessibilidade, você melhora a experiência para todos.
 
