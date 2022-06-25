@@ -37,11 +37,78 @@ Agora vamos agitar nossa varinha de acessibilidade e ver o formulário com esses
 
 Qual você prefere usar? Se você disse "a versão acessível", está no caminho certo para entender a premissa principal deste guia. Muitas vezes, algo que é um bloqueador completo para alguns usuários também é um ponto problemático para muitos outros, portanto, ao corrigir o problema de acessibilidade, você melhora a experiência para todos.
 
+### A acessibilidade começa com o seu HTML
+
+HTML — assim como sua linguagem de estilo complementar, CSS — é flexível. Se você quiser construir um certo tipo de página, provavelmente há várias maneiras de escrever com HTML e estilizá-la com CSS. No entanto, nem todos os elementos HTML são iguais quando se trata de acessibilidade.
+
+Ao escrever páginas da web, a melhor maneira de torná-las acessíveis é usar HTML semântico . HTML semântico é um código HTML que diz o que faz – em outras palavras, a própria tag transmite o propósito do elemento. Elementos semanticamente ricos incluem <button> , <form> , <header> , <footer> , <nav> e os títulos <h1> , <h2> , etc.
+
+Considere o exemplo abaixo. Aqui, temos dois elementos de botão que, pelo menos ao olho humano, parecem iguais:
+  
+  ![image](https://user-images.githubusercontent.com/88754556/175757659-7f8fea69-37ef-4a78-b3af-ce1df17d6bdd.png)
+
+  Mas, se você revelar o HTML subjacente, verá que o primeiro elemento é um elemento <button> , enquanto o segundo é um elemento <div> . A primeira é semântica, enquanto a segunda não é.
+
+Outro exemplo: Abaixo, temos duas listas. No entanto, a primeira utiliza a tag semântica <ol> (lista ordenada), enquanto a segunda é formatada com tags genéricas:
+  
+  ![image](https://user-images.githubusercontent.com/88754556/175757756-1cb737fe-207c-4699-b47e-be452fba7efc.png)
+
+Embora a diferença entre tags semânticas e não semânticas possa não parecer importante para usuários com visão, ela é significativamente importante para aqueles que usam leitores de tela por vários motivos:
+
+Primeiro, o HTML semântico informa aos usuários de leitores de tela exatamente o que eles estão visualizando. O elemento semântico <button> informa ao leitor de tela que este elemento deve ser clicado para realizar alguma ação, e o elemento <ol> diz que os elementos que ele contém fazem parte de uma lista numerada. Como <div> não é semanticamente rico, ele não transmite essa informação — tudo o que o usuário sabe é que o elemento em questão é alguma coisa genérica de nível de bloco....
+
+Em segundo lugar, os elementos semânticos vêm com sua própria acessibilidade de teclado integrada, sem necessidade de trabalho extra de sua parte. O elemento <button> , por exemplo, permite que os usuários “cliquem” no elemento com a tecla Enter/Return e foquem nele com a tecla Tab. Este não é o caso com <div> . Ao usar elementos semânticos, você ativa a funcionalidade acessível complementar.
+
+Por fim, muitos leitores de tela ajudam os usuários a navegar em uma página, permitindo que eles pulem entre as tags com o mesmo nome (ou seja, H2s) ou agreguem todas as mesmas tags para uma maneira mais fácil de verificar o conteúdo de uma página. Portanto, está claro por que usar principalmente tags <div> negaria esse recurso.
+
+Para resumir, evite criar elementos de interação específicos com a tag genérica <div> e seu irmão embutido, <span> , se possível. Embora essas tags geralmente sejam úteis para layouts, sempre escolha o elemento HTML semântico nativo quando possível para melhor acessibilidade.
+  
+  - Texto alternativo da imagem : O objetivo do texto alternativo era adicionar contexto para aqueles que usam leitores de tela e para aqueles que não podem ver suas imagens por qualquer motivo (por exemplo, baixa visão, uma conexão ruim ou um link de origem quebrado). Quando um leitor de tela encontra um texto alternativo, ele simplesmente o lê para o usuário. Os navegadores também podem ser configurados para exibir texto alternativo na tela no lugar da imagem.
+ 
+  ```
+  <img src="cute-dog.jpg" alt="a small, brown sitting in a field of dandelions with a chew toy in its mouth">
+  ```
+
+  - Conteudo textual adequado :
+  
+  Uma das melhores formas de ajudar um leitor de tela a interpretar sua página é criar uma boa e consistente estrutura de títulos, parágrafos, listas, etc. Um exemplo de boa semântica vai ser parecido com o a seguir, respeitando sua semantica adequada, assim se você tentar navegar dentro do documento, vai perceber que é bem fácil:
+  
+  ```<h1>Meu título</h1>
+
+<p>Essa é a primeira sessão do meu documento.</p>
+
+<p>Eu vou adicionar outro parágrafo aqui também.</p>
+
+<ol>
+  <li>Aqui é</li>
+  <li>uma lista para</li>
+  <li>você ler</li>
+</ol>
+
+<h2>Meu sub-título</h2>
+
+<p>Essa é a primeira sub sessão do meu documento. Eu adoro quando as pessoas conseguem encontrar meu conteúdo!</p>
+
+<h2>Meu segundo sub-título</h2>
+
+<p>Essa é a primeira sub sessão do meu documento. Eu acho que essa é mais interessante que a última.</p>
+```
+  
+**Para se aprofundar no assunto**: [https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML]
+  
+### Usando linguagem clara
+  
+A linguagem que você usa também pode afetar a acessibilidade. No geral, você deve utilizar uma linguagem clara, que não é exageradamente complexa, e que não use jargões ou gírias desnecessárias. Isso não traz somente benefícios para pessoas com deficiência cognitiva, mas também beneficia pessoas que não estão lendo em sua primeira língua, jovens leitores... todo mundo, de fato! Tirando isso, você deve tentar evitar uma linguagem ou caracteres que não podem ser lidos ou entendidos bem por um leitor de tela. Por exemplo:
+
+- Não utilize traços se você pode evitá-los. Ao invés de escrever 5-7, escreva 5 a 7.
+- Expanda as abreviações — ao invés de escrever Jan, escreva Janeiro.
+- Expanda os acrônimos, pelo menos uma ou duaz vezes. Ao invés de escrever direto HTML, escreva Hypertext Markup Language, ou HTML.
+  
 ### Diretrizes de acessibilidade de conteúdo da Web
 
 Ao longo deste guia, faremos referência às Diretrizes de acessibilidade de conteúdo da Web (WCAG) 2.0 , um conjunto de diretrizes e práticas recomendadas reunidas por especialistas em acessibilidade para abordar o que "acessibilidade" significa de maneira metódica.
 
-As WCAG estão organizadas em torno de quatro princípios frequentemente chamados pelo acrónimo POUR :
+As  WCAG estão organizadas em torno de quatro princípios frequentemente chamados pelo acrónimo POUR ( Perceivable, Operable, Understandable e Robust) :
 
 - Perceptível : Os usuários podem perceber o conteúdo? Isso nos ajuda a ter em mente que só porque algo é perceptível com um sentido, como a visão, isso não significa que todos os usuários possam percebê-lo.
 
@@ -51,39 +118,44 @@ As WCAG estão organizadas em torno de quatro princípios frequentemente chamado
 
 - Robusto : O conteúdo pode ser consumido por uma ampla variedade de agentes de usuário (navegadores)? Funciona com tecnologia assistiva?
 
-Embora as WCAG forneçam uma visão geral abrangente do que significa que o conteúdo seja acessível, também pode ser um pouco esmagador. Para ajudar a mitigar isso, o grupo WebAIM (Web Accessibility in Mind) destilou as diretrizes WCAG em uma lista de verificação fácil de seguir, direcionada especificamente para conteúdo da web.
+Em extenso temos as doze diretrizes WCAG 2.0:
+1. Perceptível
+1.1 Forneça alternativas de texto para qualquer conteúdo não textual para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, Braille, fala, símbolos ou linguagem mais simples.
+1.2 Fornecer alternativas para mídia baseada em tempo.
+1.3 Criar conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
+1.4 Torne mais fácil para os usuários ver e ouvir o conteúdo, incluindo a separação do primeiro plano do plano de fundo.
 
-A lista de verificação do WebAIM pode fornecer um resumo curto e de alto nível do que você precisa implementar, além de vincular à especificação WCAG subjacente se você precisar de uma definição expandida.
+2. Operável
+2.1 Disponibilizar todas as funcionalidades a partir de um teclado.
+2.2 Forneça aos usuários tempo suficiente para ler e usar o conteúdo.
+2.3 Não crie conteúdo de uma forma que possa causar convulsões.
+2.4 Forneça maneiras de ajudar os usuários a navegar, encontrar conteúdo e determinar onde estão.
 
-Com essa ferramenta em mãos, você pode traçar uma direção para seu trabalho de acessibilidade e ter certeza de que, desde que seu projeto atenda aos critérios descritos, seus usuários terão uma experiência positiva ao acessar seu conteúdo.
+3. Compreensível
+3.1 Torne o conteúdo do texto legível e compreensível.
+3.2 Fazer com que as páginas da Web apareçam e funcionem de maneira previsível.
+3.3 Ajude os usuários a evitar e corrigir erros.
 
+4. Robusto
+4.1 Maximize a compatibilidade com agentes de usuário atuais e futuros, incluindo tecnologias assistivas.
 
+As WCAG 2.1 também apresentam a seguinte diretriz adicional:
+2.5 Acessível por ponteiro: Facilite para os usuários a operação da funcionalidade por meio de várias entradas além do teclado.
 
+### Critérios de Sucesso
 
+Para alcançar a conformidade com as WCAG, o W3C dividiu os critérios de sucesso em três diferentes níveis de implementação. Esses níveis são conhecidos como Nível A, AA e AAA, respectivamente.
 
-```markdown
-Syntax highlighted code block
+No padrão WCAG original, o W3C descreveu as diferenças entre os níveis assim:
 
-# Header 1
-## Header 2
-### Header 3
+Prioridade 1: Um desenvolvedor de conteúdo da Web deve atender a esse ponto de verificação. Caso contrário, um ou mais grupos acharão impossível acessar as informações do documento. Satisfazer esse ponto de verificação é um requisito básico para que alguns grupos possam usar documentos da Web.
+Prioridade 2: Um desenvolvedor de conteúdo da Web deve atender a esse ponto de verificação. Caso contrário, um ou mais grupos terão dificuldade em acessar as informações do documento. A satisfação desse ponto de verificação removerá barreiras significativas ao acesso a documentos da Web.
+Prioridade 3: Um desenvolvedor de conteúdo da Web pode abordar esse ponto de verificação. Caso contrário, um ou mais grupos terão alguma dificuldade em acessar as informações do documento. A satisfação desse ponto de verificação melhorará o acesso aos documentos da Web.
+Se o primeiro ponto fosse alcançado, atingiria o Nível A. Se o primeiro e o segundo pontos fossem alcançados, atingiria o Nível AA e, se todos os três fossem alcançados, atingiria o Nível AAA.
 
-- Bulleted
-- List
+Na Austrália, espera-se que as principais organizações atendam ao nível de conformidade AA. Isso significa que sua organização deve ter como objetivo atender:
 
-1. Numbered
-2. List
+Conformidade WCAG 2.0 Nível AA; ou conformidade WCAG 2.1 Nível AA.
 
-**Bold** and _Italic_ and `Code` text
+### Leitura recomendada 
 
-[Link](url) and ![Image](src)
-```
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alycesuza/Analise-de-Inclusao-em-aplicacoes-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
