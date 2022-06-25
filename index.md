@@ -116,7 +116,7 @@ Para resumir, evite criar elementos de interação específicos com a tag genér
 <p>Essa é a primeira sub sessão do meu documento. Eu acho que essa é mais interessante que a última.</p>
 ```
   
-**Para se aprofundar no assunto**: [https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML]
+**Para se aprofundar no assunto**: <a href="[url](https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML)">
   
 ### Usando linguagem clara
   
@@ -183,41 +183,39 @@ Conformidade WCAG 2.0 Nível AA; ou conformidade WCAG 2.1 Nível AA.
 
 - Diretrizes de Acessibilidade para Conteúdo Web (WCAG): 
  
- [https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/]
- [https://www.w3.org/standards/webdesign/accessibility]
- [https://www.w3.org/WAI/]
- [https://www.w3.org/TR/wai-aria-1.1/]
- [https://www.w3.org/TR/wai-aria-practices-1.1]
- [https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html?utm_campaign=chrome_series_wcag1.4.3_050417&utm_source=chromedev&utm_medium=yt-desc]
- [https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html?utm_campaign=chrome_series_wcag1.4.6_050417&utm_source=chromedev&utm_medium=yt-desc]
-
+ <a href="[url](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)">
+ <a href="[url](https://www.w3.org/standards/webdesign/accessibility)">
+ <a href="[url](https://www.w3.org/WAI/)">
+ <a href="[url](https://www.w3.org/TR/wai-aria-1.1/)">
+ <a href="[url](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html?utm_campaign=chrome_series_wcag1.4.3_050417&utm_source=chromedev&utm_medium=yt-desc)">
+ <a href="[url](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html?utm_campaign=chrome_series_wcag1.4.6_050417&utm_source=chromedev&utm_medium=yt-desc)">
  
 - Conteúdo em vídeo:
- 
- [https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW]
- [https://www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp]
- [https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g]
- [https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured]
- [https://www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo]
- [https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm]
- [https://www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t]
+  
+ <a href="[url](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW)">
+ <a href="[url](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp)">
+ <a href="[url](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)">
+ <a href="[url](https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured)">
+ <a href="[url](https://www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo)">
+ <a href="[url](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm)">
+ <a href="[url](https://www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t)">
  
  Outros:
  
- [https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en?utm_campaign=chrome_series_contrastanalyzer_050417&utm_source=chromedev&utm_medium=yt-desc]
- [https://contrast-ratio.com/?utm_campaign=chrome_series_contrastratio_050417&utm_source=chromedev&utm_medium=yt-desc]
- [https://developers.google.com/web/fundamentals/accessibility]
- [https://www.useragentman.com/blog/2019/03/17/creating-accessible-html5-modal-dialogs-for-desktop-and-mobile/]
- [https://support.google.com/accessibility/android/answer/6006564?hl=en]
- [https://ebay.gitbook.io/mindpatterns/]
- [https://github.com/WICG/inert]
- [https://webaim.org/techniques/keyboard/]
- [https://webaim.org/articles/nvda/]
- [https://html.spec.whatwg.org/multipage/interaction.html#activation]
- [https://developer.mozilla.org/en-US/docs/Web/Accessibility]
- [https://developer.mozilla.org/en-US/docs/Learn/Accessibility]
- [https://www.apple.com/accessibility/vision/]
- [https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/]
+  <a href="[url](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en?utm_campaign=chrome_series_contrastanalyzer_050417&utm_source=chromedev&utm_medium=yt-desc)">
+  <a href="[url](https://contrast-ratio.com/?utm_campaign=chrome_series_contrastratio_050417&utm_source=chromedev&utm_medium=yt-desc)">
+  <a href="[url](https://developers.google.com/web/fundamentals/accessibility)">
+  <a href="[url](https://www.useragentman.com/blog/2019/03/17/creating-accessible-html5-modal-dialogs-for-desktop-and-mobile/)">
+  <a href="[url](https://support.google.com/accessibility/android/answer/6006564?hl=en)">
+  <a href="[url](https://ebay.gitbook.io/mindpatterns/)">
+  <a href="[url](https://github.com/WICG/inert)">
+  <a href="[url](https://webaim.org/techniques/keyboard/)">
+  <a href="[url](https://webaim.org/articles/nvda/)">
+  <a href="[url](https://html.spec.whatwg.org/multipage/interaction.html#activation)">
+  <a href="[url](https://developer.mozilla.org/en-US/docs/Web/Accessibility)">
+  <a href="[url](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)">
+  <a href="[url](https://www.apple.com/accessibility/vision/)">
+  <a href="[url](https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/)">
 
 
 
