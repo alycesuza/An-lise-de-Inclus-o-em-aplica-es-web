@@ -117,7 +117,7 @@ Para resumir, evite criar elementos de interação específicos com a tag genér
 <p>Essa é a primeira sub sessão do meu documento. Eu acho que essa é mais interessante que a última.</p>
 ```
   
-**Para se aprofundar no assunto**: <a href="[url](https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML)">
+[**Para se aprofundar no assunto**:](https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML)
   
 ### Usando linguagem clara
   
@@ -184,22 +184,22 @@ Conformidade WCAG 2.0 Nível AA; ou conformidade WCAG 2.1 Nível AA.
 
 - Diretrizes de Acessibilidade para Conteúdo Web (WCAG): 
  
- <a href="[url](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)">
- <a href="[url](https://www.w3.org/standards/webdesign/accessibility)">
- <a href="[url](https://www.w3.org/WAI/)">
- <a href="[url](https://www.w3.org/TR/wai-aria-1.1/)">
- <a href="[url](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html?utm_campaign=chrome_series_wcag1.4.3_050417&utm_source=chromedev&utm_medium=yt-desc)">
- <a href="[url](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html?utm_campaign=chrome_series_wcag1.4.6_050417&utm_source=chromedev&utm_medium=yt-desc)">
+ [www.w3c.br](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)">
+ [www.w3.org/standards](https://www.w3.org/standards/webdesign/accessibility)">
+ [www.w3.org/WAI/)](https://www.w3.org/WAI/)">
+ [www.w3.org/TR/wai-aria-1.1](https://www.w3.org/TR/wai-aria-1.1/)">
+ [www.w3.org/TR/UNDERSTANDING-WCAG20](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html?utm_campaign=chrome_series_wcag1.4.3_050417&utm_source=chromedev&utm_medium=yt-desc)">
+ [www.w3.org/TR/UNDERSTANDING-WCAG20](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html?utm_campaign=chrome_series_wcag1.4.6_050417&utm_source=chromedev&utm_medium=yt-desc)">
  
 - Conteúdo em vídeo:
   
- <a href="[url](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW)">
- <a href="[url](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp)">
- <a href="[url](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)">
- <a href="[url](https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured)">
- <a href="[url](https://www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo)">
- <a href="[url](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm)">
- <a href="[url](https://www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t)">
+ [youtube](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW)
+ [youtube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp)
+ [youtube](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+ [youtube](https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured)
+ [youtube](https://www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo)
+ [youtube](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm)
+ [youtube](https://www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t)
  
  Outros:
  
