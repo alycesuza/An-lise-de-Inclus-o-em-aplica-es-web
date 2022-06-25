@@ -77,7 +77,8 @@ Para resumir, evite criar elementos de interação específicos com a tag genér
   
   Uma das melhores formas de ajudar um leitor de tela a interpretar sua página é criar uma boa e consistente estrutura de títulos, parágrafos, listas, etc. Um exemplo de boa semântica vai ser parecido com o a seguir, respeitando sua semantica adequada, assim se você tentar navegar dentro do documento, vai perceber que é bem fácil:
   
- ```
+```markdown
+ 
  <h1>Meu título</h1>
 
 <p>Essa é a primeira sessão do meu documento.</p>
