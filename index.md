@@ -45,13 +45,13 @@ Ao escrever páginas da web, a melhor maneira de torná-las acessíveis é usar 
 
 Considere o exemplo abaixo. Aqui, temos dois elementos de botão que, pelo menos ao olho humano, parecem iguais:
   
-  ![image](https://user-images.githubusercontent.com/88754556/175757659-7f8fea69-37ef-4a78-b3af-ce1df17d6bdd.png)
+![image](https://user-images.githubusercontent.com/88754556/175757659-7f8fea69-37ef-4a78-b3af-ce1df17d6bdd.png)
 
   Mas, se você revelar o HTML subjacente, verá que o primeiro elemento é um elemento <button> , enquanto o segundo é um elemento <div> . A primeira é semântica, enquanto a segunda não é.
 
 Outro exemplo: Abaixo, temos duas listas. No entanto, a primeira utiliza a tag semântica <ol> (lista ordenada), enquanto a segunda é formatada com tags genéricas:
   
-  ![image](https://user-images.githubusercontent.com/88754556/175757756-1cb737fe-207c-4699-b47e-be452fba7efc.png)
+ ![image](https://user-images.githubusercontent.com/88754556/175757756-1cb737fe-207c-4699-b47e-be452fba7efc.png)
 
 Embora a diferença entre tags semânticas e não semânticas possa não parecer importante para usuários com visão, ela é significativamente importante para aqueles que usam leitores de tela por vários motivos:
 
