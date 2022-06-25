@@ -193,6 +193,7 @@ Conformidade WCAG 2.0 Nível AA; ou conformidade WCAG 2.1 Nível AA.
 
  
 - Conteúdo em vídeo:
+ 
  [https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW]
  [https://www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp]
  [https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g]
