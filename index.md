@@ -43,7 +43,7 @@ HTML — assim como sua linguagem de estilo complementar, CSS — é flexível. 
 
 Ao escrever páginas da web, a melhor maneira de torná-las acessíveis é usar HTML semântico . HTML semântico é um código HTML que diz o que faz – em outras palavras, a própria tag transmite o propósito do elemento. Elementos semanticamente ricos incluem :
 
- ```
+```
 <button> , <form> , <header> , <footer> , <nav> e os títulos <h1> , <h2> , etc.
  ```
  
@@ -59,11 +59,11 @@ Outro exemplo: Abaixo, temos duas listas. No entanto, a primeira utiliza a tag s
 
 Embora a diferença entre tags semânticas e não semânticas possa não parecer importante para usuários com visão, ela é significativamente importante para aqueles que usam leitores de tela por vários motivos:
 
-Primeiro, o HTML semântico informa aos usuários de leitores de tela exatamente o que eles estão visualizando. O elemento semântico <button> informa ao leitor de tela que este elemento deve ser clicado para realizar alguma ação, e o elemento <ol> diz que os elementos que ele contém fazem parte de uma lista numerada. Como <div> não é semanticamente rico, ele não transmite essa informação — tudo o que o usuário sabe é que o elemento em questão é alguma coisa genérica de nível de bloco....
+Primeiro, o HTML semântico informa aos usuários de leitores de tela exatamente o que eles estão visualizando. O elemento semântico  ``` <button>  ``` informa ao leitor de tela que este elemento deve ser clicado para realizar alguma ação, e o elemento  ``` <ol>  ``` diz que os elementos que ele contém fazem parte de uma lista numerada. Como   ``` <div>  ``` não é semanticamente rico, ele não transmite essa informação — tudo o que o usuário sabe é que o elemento em questão é alguma coisa genérica de nível de bloco....
 
-Em segundo lugar, os elementos semânticos vêm com sua própria acessibilidade de teclado integrada, sem necessidade de trabalho extra de sua parte. O elemento <button> , por exemplo, permite que os usuários “cliquem” no elemento com a tecla Enter/Return e foquem nele com a tecla Tab. Este não é o caso com <div> . Ao usar elementos semânticos, você ativa a funcionalidade acessível complementar.
+Em segundo lugar, os elementos semânticos vêm com sua própria acessibilidade de teclado integrada, sem necessidade de trabalho extra de sua parte. O elemento <button> , por exemplo, permite que os usuários “cliquem” no elemento com a tecla Enter/Return e foquem nele com a tecla Tab. Este não é o caso com  ``` <div>  ``` . Ao usar elementos semânticos, você ativa a funcionalidade acessível complementar.
 
-Por fim, muitos leitores de tela ajudam os usuários a navegar em uma página, permitindo que eles pulem entre as tags com o mesmo nome (ou seja, H2s) ou agreguem todas as mesmas tags para uma maneira mais fácil de verificar o conteúdo de uma página. Portanto, está claro por que usar principalmente tags <div> negaria esse recurso.
+Por fim, muitos leitores de tela ajudam os usuários a navegar em uma página, permitindo que eles pulem entre as tags com o mesmo nome (ou seja, H2s) ou agreguem todas as mesmas tags para uma maneira mais fácil de verificar o conteúdo de uma página. Portanto, está claro por que usar principalmente tags  ``` <div>  ``` negaria esse recurso.
 
 Para resumir, evite criar elementos de interação específicos com a tag genérica <div> e seu irmão embutido,  ``` <span>  ``` , se possível. Embora essas tags geralmente sejam úteis para layouts, sempre escolha o elemento HTML semântico nativo quando possível para melhor acessibilidade.
   
