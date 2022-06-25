@@ -184,39 +184,39 @@ Conformidade WCAG 2.0 Nível AA; ou conformidade WCAG 2.1 Nível AA.
 
 - Diretrizes de Acessibilidade para Conteúdo Web (WCAG): 
  
- [https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/),
- [www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility),
- [www.w3.org/WAI/)](https://www.w3.org/WAI/),
- [www.w3.org/TR/wai-aria-1.1](https://www.w3.org/TR/wai-aria-1.1/),
- [www.w3.org/TR/UNDERSTANDING-WCAG20](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html?utm_campaign=chrome_series_wcag1.4.3_050417&utm_source=chromedev&utm_medium=yt-desc),
- [www.w3.org/TR/UNDERSTANDING-WCAG20](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html?utm_campaign=chrome_series_wcag1.4.6_050417&utm_source=chromedev&utm_medium=yt-desc).
+ [https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/),  
+ [www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility),  
+ [www.w3.org/WAI/)](https://www.w3.org/WAI/),  
+ [www.w3.org/TR/wai-aria-1.1](https://www.w3.org/TR/wai-aria-1.1/),  
+ [www.w3.org/TR/UNDERSTANDING-WCAG20](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html?utm_campaign=chrome_series_wcag1.4.3_050417&utm_source=chromedev&utm_medium=yt-desc),   
+ [www.w3.org/TR/UNDERSTANDING-WCAG20](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast7.html?utm_campaign=chrome_series_wcag1.4.6_050417&utm_source=chromedev&utm_medium=yt-desc).   
  
 - Conteúdo em vídeo:
   
- [www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW),
- [www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp),
- [www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g),
- [www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured](https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured),
- [www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo](https://www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo),
- [www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm),
- [www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t](https://www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t).
+ [www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW](https://www.youtube.com/watch?v=wkvslBGkhZY&list=PLNYkxOF6rcIBiiuN53rzwEidPcLZRtiOW),   
+ [www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDJlkmUY8qoSV7PKSoBEEvp),   
+ [www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g),   
+ [www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured](https://www.youtube.com/channel/UCU6ljj3m1fglIPjSjs2DpRA/featured),   
+ [www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo](https://www.youtube.com/playlist?list=PLkyTB2cNy_166ByzQBRK26mAilyBEX4Zo),   
+ [www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm),   
+ [www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t](https://www.youtube.com/playlist?list=PLj7tC-O0sEHfLuY6o_hVbCe5Fm-cHbP1t).   
  
  Outros:
  
-  [chrome.google.com/webstore/detail/color-contrast-analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en?utm_campaign=chrome_series_contrastanalyzer_050417&utm_source=chromedev&utm_medium=yt-desc),
-  [contrast-ratio.com](https://contrast-ratio.com/?utm_campaign=chrome_series_contrastratio_050417&utm_source=chromedev&utm_medium=yt-desc),
-  [developers.google.com/web/fundamentals/accessibility](https://developers.google.com/web/fundamentals/accessibility),
-  [www.useragentman.com](https://www.useragentman.com/blog/2019/03/17/creating-accessible-html5-modal-dialogs-for-desktop-and-mobile/),
-  [support.google.com/accessibility/android](https://support.google.com/accessibility/android/answer/6006564?hl=en),
-  [ebay.gitbook.io/mindpatterns](https://ebay.gitbook.io/mindpatterns/),
-  [github.com/WICG/inert](https://github.com/WICG/inert),
-  [webaim.org/techniques/keyboard/](https://webaim.org/techniques/keyboard/),
-  [webaim.org/articles/nvda/](https://webaim.org/articles/nvda/),
-  [html.spec.whatwg.org/multipage/interaction.html#activation](https://html.spec.whatwg.org/multipage/interaction.html#activation),
-  [developer.mozilla.org/en-US/docs/Web/Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility),
-  [developer.mozilla.org/en-US/docs/Learn/Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility),
-  [apple.com/accessibility/vision/](https://www.apple.com/accessibility/vision/),
-  [heydonworks.com/article/responses-to-the-screen-reader-strategy-survey](https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/).
+  [chrome.google.com/webstore/detail/color-contrast-analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll?hl=en?utm_campaign=chrome_series_contrastanalyzer_050417&utm_source=chromedev&utm_medium=yt-desc),    
+  [contrast-ratio.com](https://contrast-ratio.com/?utm_campaign=chrome_series_contrastratio_050417&utm_source=chromedev&utm_medium=yt-desc),   
+  [developers.google.com/web/fundamentals/accessibility](https://developers.google.com/web/fundamentals/accessibility),   
+  [www.useragentman.com](https://www.useragentman.com/blog/2019/03/17/creating-accessible-html5-modal-dialogs-for-desktop-and-mobile/),   
+  [support.google.com/accessibility/android](https://support.google.com/accessibility/android/answer/6006564?hl=en),  
+  [ebay.gitbook.io/mindpatterns](https://ebay.gitbook.io/mindpatterns/),  
+  [github.com/WICG/inert](https://github.com/WICG/inert),   
+  [webaim.org/techniques/keyboard/](https://webaim.org/techniques/keyboard/),   
+  [webaim.org/articles/nvda/](https://webaim.org/articles/nvda/),   
+  [html.spec.whatwg.org/multipage/interaction.html#activation](https://html.spec.whatwg.org/multipage/interaction.html#activation),    
+  [developer.mozilla.org/en-US/docs/Web/Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility),   
+  [developer.mozilla.org/en-US/docs/Learn/Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility),   
+  [apple.com/accessibility/vision/](https://www.apple.com/accessibility/vision/),   
+  [heydonworks.com/article/responses-to-the-screen-reader-strategy-survey](https://heydonworks.com/article/responses-to-the-screen-reader-strategy-survey/).  
 
 
 
