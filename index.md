@@ -1,11 +1,11 @@
-## um guia pratico dos padrões de navegabilidade e acessibilidade
+# Analise de Inclusão em Aplicações Web
+## Um guia pratico dos padrões de navegabilidade e acessibilidade
+
+Este conjunto de documentos é uma versão baseada em texto de parte do conteúdo abordado no projeto ...
 
 
-You can use the [editor on GitHub](https://github.com/alycesuza/Analise-de-Inclusao-em-aplicacoes-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
