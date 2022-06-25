@@ -41,13 +41,17 @@ Qual você prefere usar? Se você disse "a versão acessível", está no caminho
 
 HTML — assim como sua linguagem de estilo complementar, CSS — é flexível. Se você quiser construir um certo tipo de página, provavelmente há várias maneiras de escrever com HTML e estilizá-la com CSS. No entanto, nem todos os elementos HTML são iguais quando se trata de acessibilidade.
 
-Ao escrever páginas da web, a melhor maneira de torná-las acessíveis é usar HTML semântico . HTML semântico é um código HTML que diz o que faz – em outras palavras, a própria tag transmite o propósito do elemento. Elementos semanticamente ricos incluem <button> , <form> , <header> , <footer> , <nav> e os títulos <h1> , <h2> , etc.
+Ao escrever páginas da web, a melhor maneira de torná-las acessíveis é usar HTML semântico . HTML semântico é um código HTML que diz o que faz – em outras palavras, a própria tag transmite o propósito do elemento. Elementos semanticamente ricos incluem :
 
+ ```
+<button> , <form> , <header> , <footer> , <nav> e os títulos <h1> , <h2> , etc.
+ ```
+ 
 Considere o exemplo abaixo. Aqui, temos dois elementos de botão que, pelo menos ao olho humano, parecem iguais:
   
 ![image](https://user-images.githubusercontent.com/88754556/175757659-7f8fea69-37ef-4a78-b3af-ce1df17d6bdd.png)
 
-  Mas, se você revelar o HTML subjacente, verá que o primeiro elemento é um elemento <button> , enquanto o segundo é um elemento <div> . A primeira é semântica, enquanto a segunda não é.
+  Mas, se você revelar o HTML subjacente, verá que o primeiro elemento é um elemento " <button> " , enquanto o segundo é um elemento " <div> "  . A primeira é semântica, enquanto a segunda não é.
 
 Outro exemplo: Abaixo, temos duas listas. No entanto, a primeira utiliza a tag semântica <ol> (lista ordenada), enquanto a segunda é formatada com tags genéricas:
   
