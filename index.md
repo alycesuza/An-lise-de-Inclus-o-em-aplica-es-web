@@ -23,17 +23,33 @@ Por exemplo, embora tenhamos a tendência de centrar nossa discussão sobre aces
 
 À medida que você aprende mais, descobrirá que abordar os problemas de acessibilidade nesse sentido mais amplo e geral quase sempre melhora a experiência do usuário para todos. Vejamos um exemplo:
 
-![image](https://user-images.githubusercontent.com/88754556/175757189-eb2b7d0d-c1b9-45f9-832c-c756bb2f7319.png)
+![image](https://user-images.githubusercontent.com/88754556/175758568-60f15b86-638b-4263-9daa-1e72db6d0bcd.png)
 
-Este formulário tem vários problemas de acessibilidade.
+
+Este site tem varios problemas de acessibilidade.
 
 - O texto é de baixo contraste, o que é difícil para usuários com baixa visão lerem.
-- Ter rótulos à esquerda e campos à direita torna difícil para muitas pessoas associá-los e quase impossível para alguém que precise ampliar para usar a página; imagine olhar para isso em um telefone e ter que percorrer para descobrir o que se passa com o quê.
-- O "Lembrar detalhes?" o rótulo não está associado à caixa de seleção, portanto, você deve tocar ou clicar apenas no pequeno quadrado em vez de apenas clicar no rótulo; além disso, alguém usando um leitor de tela teria problemas para descobrir a associação.
+- Fonte pequena (instrutor Boot Santos) e cor quase não visível
+- Imagem de fundo que distrai, 
+- Deve-se melhorar a saturação e brilho do site
+- Há imagens com baixa resolução
+- A imagem de fundo ser animada, e desfocada, o que dificulta a leitura.
 
-Agora vamos agitar nossa varinha de acessibilidade e ver o formulário com esses problemas corrigidos. Vamos tornar o texto mais escuro, modificar o design para que os rótulos fiquem próximos às coisas que estão rotulando e corrigir o rótulo a ser associado à caixa de seleção para que você possa alterná-lo clicando no rótulo também.
+Agora vamos agitar nossa varinha de acessibilidade e ver o formulário com esses problemas corrigidos. Vamos tornar o texto mais escuro, modificar o design para que os contrates e textos sejam mais agradavel aos olhos e colocar botãos de acessibilidade.
 
-![image](https://user-images.githubusercontent.com/88754556/175757216-dd1e4ee2-d8dd-4990-b944-7740bac826ae.png)
+![image](https://user-images.githubusercontent.com/88754556/175758798-14592c93-8670-492b-9f76-4f127d07931f.png)
+Acrescentar barra de atalhos com os ícones de :Botões , especificando devidos atalhos, aumento e diminuição de letra e contraste da página.
+Ao clicar em contraste, a parte menu do site tem variação de cor de preto para branco, além disso pode-se também optar por aumento das letras dos ícones, como demonstrado na imagem abaixo:  
+
+![image](https://user-images.githubusercontent.com/88754556/175758853-1399fb37-c9fc-4753-9ca5-ad8f7e4120b4.png)
+
+Foi acrescentado uma barra de rolagem em tons mais nítidos:
+
+![image](https://user-images.githubusercontent.com/88754556/175758888-74de1b50-a1cc-4fc8-8753-dd61485978a1.png)
+
+E tirado a transição de fundo para uma imagem estática:
+
+![image](https://user-images.githubusercontent.com/88754556/175758906-32be0999-ae31-4c9b-aab5-c0b3c64f46ef.png)
 
 Qual você prefere usar? Se você disse "a versão acessível", está no caminho certo para entender a premissa principal deste guia. Muitas vezes, algo que é um bloqueador completo para alguns usuários também é um ponto problemático para muitos outros, portanto, ao corrigir o problema de acessibilidade, você melhora a experiência para todos.
 
@@ -61,7 +77,7 @@ Embora a diferença entre tags semânticas e não semânticas possa não parecer
 
 Primeiro, o HTML semântico informa aos usuários de leitores de tela exatamente o que eles estão visualizando. O elemento semântico  ``` <button>  ``` informa ao leitor de tela que este elemento deve ser clicado para realizar alguma ação, e o elemento  ``` <ol>  ``` diz que os elementos que ele contém fazem parte de uma lista numerada. Como   ``` <div>  ``` não é semanticamente rico, ele não transmite essa informação — tudo o que o usuário sabe é que o elemento em questão é alguma coisa genérica de nível de bloco....
 
-Em segundo lugar, os elementos semânticos vêm com sua própria acessibilidade de teclado integrada, sem necessidade de trabalho extra de sua parte. O elemento <button> , por exemplo, permite que os usuários “cliquem” no elemento com a tecla Enter/Return e foquem nele com a tecla Tab. Este não é o caso com  ``` <div>  ``` . Ao usar elementos semânticos, você ativa a funcionalidade acessível complementar.
+Em segundo lugar, os elementos semânticos vêm com sua própria acessibilidade de teclado integrada, sem necessidade de trabalho extra de sua parte. O elemento ``` <button> ``` , por exemplo, permite que os usuários “cliquem” no elemento com a tecla Enter/Return e foquem nele com a tecla Tab. Este não é o caso com  ``` <div>  ``` . Ao usar elementos semânticos, você ativa a funcionalidade acessível complementar.
 
 Por fim, muitos leitores de tela ajudam os usuários a navegar em uma página, permitindo que eles pulem entre as tags com o mesmo nome (ou seja, H2s) ou agreguem todas as mesmas tags para uma maneira mais fácil de verificar o conteúdo de uma página. Portanto, está claro por que usar principalmente tags  ``` <div>  ``` negaria esse recurso.
 
