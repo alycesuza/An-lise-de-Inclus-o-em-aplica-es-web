@@ -23,8 +23,7 @@ Por exemplo, embora tenhamos a tendência de centrar nossa discussão sobre aces
 
 À medida que você aprende mais, descobrirá que abordar os problemas de acessibilidade nesse sentido mais amplo e geral quase sempre melhora a experiência do usuário para todos. Vejamos um exemplo:
 
-![image](https://user-images.githubusercontent.com/88754556/175758568-60f15b86-638b-4263-9daa-1e72db6d0bcd.png)
-
+![image](https://user-images.githubusercontent.com/88754556/175758991-558800ed-a6af-45ea-a633-e08bd955c9b9.png)
 
 Este site tem varios problemas de acessibilidade.
 
@@ -35,9 +34,10 @@ Este site tem varios problemas de acessibilidade.
 - Há imagens com baixa resolução
 - A imagem de fundo ser animada, e desfocada, o que dificulta a leitura.
 
-Agora vamos agitar nossa varinha de acessibilidade e ver o formulário com esses problemas corrigidos. Vamos tornar o texto mais escuro, modificar o design para que os contrates e textos sejam mais agradavel aos olhos e colocar botãos de acessibilidade.
+Agora vamos agitar nossa varinha de acessibilidade e propor mudanças para mitigar estes problemas:
 
 ![image](https://user-images.githubusercontent.com/88754556/175758798-14592c93-8670-492b-9f76-4f127d07931f.png)
+
 Acrescentar barra de atalhos com os ícones de :Botões , especificando devidos atalhos, aumento e diminuição de letra e contraste da página.
 Ao clicar em contraste, a parte menu do site tem variação de cor de preto para branco, além disso pode-se também optar por aumento das letras dos ícones, como demonstrado na imagem abaixo:  
 
