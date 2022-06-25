@@ -1,6 +1,4 @@
-## <h1 align="center"> Análise de Inclusão em aplicações web: <br> um guia pratico dos padrões de navegabilidade e acessibilidade </h1>
-
-teste
+## um guia pratico dos padrões de navegabilidade e acessibilidade
 
 
 You can use the [editor on GitHub](https://github.com/alycesuza/Analise-de-Inclusao-em-aplicacoes-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
