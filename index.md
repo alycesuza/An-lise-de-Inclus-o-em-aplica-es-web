@@ -1,9 +1,10 @@
 # Analise de Inclusão em Aplicações Web
 ## Um guia pratico dos padrões de navegabilidade e acessibilidade
 
-Este conjunto de documentos é uma versão baseada em texto de parte do conteúdo abordado no projeto A
-,
-Compreender a acessibilidade, seu escopo e seu impacto pode torná-lo um desenvolvedor web melhor. Este guia destina-se a ajudá-lo a entender como tornar seus sites acessíveis e utilizáveis por todos.
+Autora e bolsista: Alyce ; Orientadora : Hevellin Estrela e Voluntária : Maria Eduarda.
+
+
+Este conjunto de documentos é uma versão baseada em texto de parte do conteúdo abordado no projeto Análise de Inclusão em aplicações web: estudo de padrões de navegabilidade e acessibilidade,que busca compreender a acessibilidade, seu escopo e seu impacto pode torná-lo um desenvolvedor web melhor. Este guia destina-se a ajudá-lo a entender como tornar seus sites acessíveis e utilizáveis por todos.
 
 "Acessibilidade" pode ser difícil de soletrar, mas não precisa ser difícil de realizar. Neste guia, você verá como obter algumas vitórias fáceis para ajudar a melhorar a acessibilidade com o mínimo de esforço, como você pode usar o que está embutido no HTML para criar interfaces mais acessíveis e robustas e como aproveitar algumas técnicas avançadas para criar experiências acessíveis polidas .
 
